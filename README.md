@@ -4,6 +4,7 @@
 #### <p align="center"> 📍 I'm from Vila Nova de Famalicão, Braga.
 ####  <p align="center"> 🎓 Currently, I'm studying Software Engineering @ <a href="https://www.uminho.pt/EN">University of Minho</a>.
 
+
 # 📊 GitHub Stats
 <div align="center">
   
@@ -11,9 +12,8 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=findingmarta&layout=compact&theme=dracula&include_all_commits=true&count_private=true&hide_border=true)
 
 </div>
-   
-   ##
 
+   
 # 💻 Programming Languages
 <div align="center">
   
@@ -42,7 +42,6 @@
 
 </div>  
 
-  ##
 
 <div align="center"> 
   
@@ -50,13 +49,13 @@
 
 </div>
    
-   ##
 
 # 🌐 Reach Me
 <div align="center"> 
   <a href = "mailto:martasa57@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/martasa57" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
 
 # 👤 Visitors
 <div align="center"> 
