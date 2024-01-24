@@ -26,7 +26,8 @@
   ![MySQL](https://img.shields.io/badge/MySQL-%2300599C.svg?style=for-the-badge&logo=sql&logoColor=white)
   ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-  
+  ![C++](https://img.shields.io/badge/-C++-red?style=for-the-badge&logo=cplusplus&logoColor=white)
+
 </div>
   
   
@@ -38,7 +39,7 @@
   ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
   ![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
- 
+
 </div>  
 
   ##
