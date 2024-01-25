@@ -45,7 +45,7 @@
 
 <div align="center"> 
   
-  ![Snake animation](https://github.com/findingmarta/findingmarta/blob/output/github-contribution-grid-snake.svg)
+  ![snake animation](https://github.com/findingmarta/findingmarta/blob/output/github-contribution-grid-snake2.svg)
 
 </div>
    
